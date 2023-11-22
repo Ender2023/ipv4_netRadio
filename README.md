@@ -1,7 +1,7 @@
 ## How to use this repository
 ### 编译
 ```shell
-git clone https://github.com/missFuture/IPv4_streaming_media.git
+git clone https://github.com/Ender2023/ipv4_netRadio
 make
 ```
 ### 设置本地媒体库
